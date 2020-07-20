@@ -15,3 +15,6 @@ Developers Guild has a strong presence on Discord where you can ask about homewo
 
 If you are interested in adding or correcting information to this page feel
 free to message Yusuf Quddus, Johnny To or Carlos Alba through Facebook or the Developers Guild Discord.
+
+If you are comfortable with Markdown you can also make pull request on the
+page [here](https://github.com/DevelopersGuild/supreme-garbanzo/blob/master/docs/meeting/README.md)
