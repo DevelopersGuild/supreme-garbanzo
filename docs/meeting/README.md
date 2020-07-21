@@ -13,7 +13,7 @@ Developers Guild has a strong presence on Discord where you can ask about homewo
 
 ## Contributing
 
-If you are interested in adding or correcting information to this page feel
+If you are interested in adding to or correcting information on this page feel
 free to message Yusuf Quddus, Johnny To or Carlos Alba through Facebook or the Developers Guild Discord.
 
 If you are comfortable with Markdown you can also make pull request on the
